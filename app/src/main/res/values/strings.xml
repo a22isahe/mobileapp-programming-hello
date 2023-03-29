@@ -1,3 +1,4 @@
 <resources>
+    // changed Text to Have a nice Week
     <string name="app_name">Have a nice week</string>
 </resources>
